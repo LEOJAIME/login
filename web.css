@@ -1,0 +1,51 @@
+body{
+	background-color: #555FF1
+}
+#PaginaWeb{
+	font-family: "lucida grande", tohama, verdana, arial, sans-serif;
+	background-color: #000000;
+	color: #0000FF;
+	width: 300px;
+	height: 200px;
+	margin: 200px auto;
+	padding: 20px;
+
+}
+#paginaWeb h1{
+	color: #8000000;
+	font-family: Arial, sans-serif;
+	font-size: 25px;<input type="file" id="arquivo" name="arquivo" />
+}
+#paginaWeb{
+	margin: 20px auto;
+	width: 20px;
+}
+#paginaWeb {
+	width: 200px;
+}
+#paginaWeb {
+	height: 35px;
+}
+#paginaWeb {
+	float: right;
+}
+#paginaWeb table tr td label{
+	float: right;
+}
+#paginaWeb .campo-texto{
+	border: 1px solid #000;
+	background-color: #383838;
+	color: #000000;
+	width: 200px;
+}
+label.erro{
+	background-color: red;
+	color: #FFFFFF;
+	margin-left: 5px;
+	padding: 0 5px 0;
+	position: absolute;
+}
+button.Entrar {
+margin-top:50%;
+margin-bottom:50%;
+}
